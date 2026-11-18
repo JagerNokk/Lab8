@@ -4,5 +4,5 @@
   "model": "linear",
   "alpha": 1.0,
   "bin_feature": "year",
-  "n_bins": 0
+  "n_bins": 8
 }
